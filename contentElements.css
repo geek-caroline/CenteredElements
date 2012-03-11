@@ -1,0 +1,29 @@
+.biog {
+    width: 35%;
+    margin: 2.5%;
+    float: left;
+}
+.biog div {
+    margin-left: 105px;
+}
+.biog img {
+    float: left;
+}
+.biog-img-only {
+    margin: 2.5%;
+    float: left;
+}
+#main-central-content {
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px #c0c0c0 solid;
+}
+th, td {
+    text-align: center;
+    padding: 2px;
+    border: 1px #c0c0c0 solid;
+}
