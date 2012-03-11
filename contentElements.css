@@ -16,6 +16,9 @@
 #main-central-content {
     padding: 10px;
 }
+#centre-section {
+    overflow-y: scroll;
+}
 table{
     border-collapse: collapse;
     margin-left: auto;

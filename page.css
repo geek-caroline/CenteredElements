@@ -26,7 +26,6 @@ body, html {
     height: 400px;
     background-color: #90ED90;
     float: right;
-    overflow-y: scroll;
 }
 #left-section {
     width: 100px;
